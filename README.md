@@ -1,2 +1,1 @@
-# LearingTypescript
-TypeScript에 대한 학습 with 러닝 타입스크립트
+## 이 레포는 러닝 타입스크립트 ( 조시 골드버그 )를 기반으로 한 학습 내용입니다.
